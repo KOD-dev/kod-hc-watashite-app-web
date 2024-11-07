@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="グループ_3650" data-name="グループ 3650" transform="translate(-30 -405)">
+    <g id="楕円形_223" data-name="楕円形 223" transform="translate(30 405)" fill="#fff" stroke="#008763" stroke-width="1">
+      <circle cx="12.5" cy="12.5" r="12.5" stroke="none"/>
+      <circle cx="12.5" cy="12.5" r="12" fill="none"/>
+    </g>
+    <text id="例" transform="translate(36 422)" fill="#008763" font-size="12" font-family="NotoSansJP-ExtraBold, Noto Sans JP" font-weight="800"><tspan x="0" y="0">例</tspan></text>
+  </g>
+</svg>

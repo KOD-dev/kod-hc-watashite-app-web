@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.998" height="24.999" viewBox="0 0 24.998 24.999">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_2021" data-name="長方形 2021" width="24.998" height="24.999" fill="#008763"/>
+    </clipPath>
+  </defs>
+  <g id="グループ_3549" data-name="グループ 3549" transform="translate(0 0)">
+    <g id="グループ_3548" data-name="グループ 3548" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="パス_2383" data-name="パス 2383" d="M9.9,19.807a9.9,9.9,0,1,1,7-2.9,9.839,9.839,0,0,1-7,2.9m0-16.48A6.575,6.575,0,1,0,14.551,5.25,6.554,6.554,0,0,0,9.9,3.327" transform="translate(0 0)" fill="#008763"/>
+      <path id="パス_2384" data-name="パス 2384" d="M21.949,23.614a1.659,1.659,0,0,1-1.177-.487l-7.6-7.606a1.664,1.664,0,1,1,2.353-2.353l7.606,7.6a1.664,1.664,0,0,1-1.177,2.841" transform="translate(1.385 1.385)" fill="#008763"/>
+    </g>
+  </g>
+</svg>

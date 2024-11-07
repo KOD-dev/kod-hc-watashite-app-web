@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="グループ_3556" data-name="グループ 3556" transform="translate(-339.798 -194.798)">
+    <g id="楕円形_13" data-name="楕円形 13" transform="translate(339.798 194.798)" fill="#038763" stroke="#008763" stroke-width="2">
+      <circle cx="12.5" cy="12.5" r="12.5" stroke="none"/>
+      <circle cx="12.5" cy="12.5" r="11.5" fill="none"/>
+    </g>
+    <g id="グループ_3554" data-name="グループ 3554" transform="translate(-44.532 310.107) rotate(-45)">
+      <path id="パス_527" data-name="パス 527" d="M0,0H2.48V11H0Z" transform="translate(354.278 213.798) rotate(180)" fill="#fff"/>
+      <path id="パス_585" data-name="パス 585" d="M0,0H2.48V11H0Z" transform="translate(358.798 206.798) rotate(90)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="alert-circle" transform="translate(-1 -1)">
+    <circle id="楕円形_222" data-name="楕円形 222" cx="10" cy="10" r="10" transform="translate(2 2)" fill="#008763"/>
+    <path id="楕円形_222-2" data-name="楕円形 222" d="M10-1A11,11,0,0,1,21,10,11,11,0,0,1,10,21,11,11,0,0,1-1,10,11,11,0,0,1,10-1Zm0,20a9,9,0,1,0-9-9A9.01,9.01,0,0,0,10,19Z" transform="translate(2 2)" fill="#008763"/>
+    <path id="パス_2422" data-name="パス 2422" d="M355.836,197.062a.979.979,0,1,1-.979.979.979.979,0,0,1,.979-.979m1.128-6.852a1.13,1.13,0,0,0-1.128-1.19h0a1.13,1.13,0,0,0-1.128,1.19l.288,5.406a.841.841,0,0,0,.84.8h0a.841.841,0,0,0,.84-.8Z" transform="translate(-343.706 -182.02)" fill="#fff" fill-rule="evenodd"/>
+  </g>
+</svg>
