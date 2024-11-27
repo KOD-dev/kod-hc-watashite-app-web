@@ -10966,6 +10966,7 @@ flutter_inappwebview_windows
 flutter_keyboard_visibility
 flutter_keyboard_visibility_linux
 flutter_keyboard_visibility_macos
+flutter_keyboard_visibility_web
 flutter_keyboard_visibility_windows
 
 The MIT License
@@ -10993,7 +10994,6 @@ THE SOFTWARE.
 
 --------------------------------------------------------------------------------
 flutter_keyboard_visibility_platform_interface
-flutter_keyboard_visibility_web
 
 The MIT License
 
